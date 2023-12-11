@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Junaid Saleem</h1>
-<h3 align="center">An AI/ML enthusiast and Front-End Developer</h3>
+<h3 align="center">An AI/ML Enthusiast and Front-End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaidsalim&label=Profile%20views&color=0e75b6&style=flat" alt="junaidsalim" /> </p>
 
