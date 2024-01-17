@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junaidsalim" alt="junaidsalim" /></a> </p>
 
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Python & Machine Learning**
 
 
 - 📫 How to reach me **junaidsaleem986@gmail.com**
