@@ -1,51 +1,76 @@
-<div align="center">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/header-mobile.svg" />
+  <img src="./assets/header.svg" width="100%" alt="Junaid Saleem. Software Engineer and Researcher in Islamabad, Pakistan. Robotics, computer vision, and backend engineering." />
+</picture>
 
-# Junaid Saleem
+<p align="center">
+  <a href="https://junaidsalim.github.io/"><img src="https://img.shields.io/badge/Portfolio-172b32?style=for-the-badge&amp;logo=githubpages&amp;logoColor=80e1b4" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/junaid-saleem/"><img src="https://img.shields.io/badge/LinkedIn-172b32?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:junaidsaleem986@gmail.com"><img src="https://img.shields.io/badge/Email-172b32?style=for-the-badge&amp;logo=gmail&amp;logoColor=80e1b4" alt="Email" /></a>
+  <a href="https://drive.google.com/file/d/1nGhUug4Alh1dNHMXJece6IS-xdeEXDBm/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-315e44?style=for-the-badge" alt="Resume" /></a>
+</p>
 
-**Software Engineer & Researcher**
+I build software for **robots that move, systems that see, and the backends behind them.** My work spans robot navigation, multi-drone simulation, computer vision, and backend engineering.
 
-`Robotics` · `Computer vision` · `Backend engineering`
+**BS Computer Science, GIKI · Class of 2026 · 3.70/4.00 CGPA**
 
-[Portfolio](https://junaidsalim.github.io/) · [LinkedIn](https://www.linkedin.com/in/junaid-saleem/) · [Email](mailto:junaidsaleem986@gmail.com) · [Resume](https://drive.google.com/file/d/1nGhUug4Alh1dNHMXJece6IS-xdeEXDBm/view?usp=sharing)
+## Where I build
 
-</div>
+| | Role & focus |
+| :--- | :--- |
+| **Dune AI**<br>Nov 2026 - Present · Islamabad | **Software Engineer**<br>Robotics and algorithms. |
+| **MHTechFusion**<br>Nov 2025 - Present · Remote | **Software Engineer**<br>Computer vision applications, model workflows, and technical leadership. |
+| **University of Waterloo**<br>Aug - Oct 2026 · Canada | **Mitacs Globalink Research Intern**<br>Geospatial multi-UAV simulation, path planning, and last-mile delivery research. |
+| **Dune AI**<br>Jun - Aug 2025 · Lahore | **Software Engineer Intern**<br>RoboCup SSL simulation, robot navigation, and build/test automation. |
 
----
+## Selected builds
 
-I work on how robots move, how software understands images, and the systems behind useful applications. Based in **Islamabad, Pakistan**.
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="./assets/project-uav.svg" width="100%" alt="Illustration of drone routes over city blocks" />
+<h3>UAV Path Planning Simulator</h3>
+<p>A real Toronto map, multiple drones, wind and energy models, uncertainty, and online replanning. Built during my Mitacs research.</p>
+<p><code>Python</code> <code>NetworkX</code> <code>PySide6</code></p>
+<p><strong>Research project</strong> · Source not public yet</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/robocup-pk/soccer"><img src="./assets/project-robocup.svg" width="100%" alt="Illustration of robot soccer path planning" /></a>
+<h3>RoboCup SSL Simulator</h3>
+<p>Real-time robot soccer simulation. Contributed RRT, RRTX, and A* navigation above 40 Hz, plus a Python Qt controller using ROS2.</p>
+<p><code>C++</code> <code>OpenGL</code> <code>ROS2</code></p>
+<p><a href="https://github.com/robocup-pk/soccer">Explore the code ↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/JunaidSalim/reachai-backend"><img src="./assets/project-reach.svg" width="100%" alt="Illustration of the REACH.AI screening, interview, and assessment pipeline" /></a>
+<h3>REACH.AI</h3>
+<p>Applicant tracking, AI video interviews, and technical assessments in one hiring platform. Includes vision-based proctoring and sandboxed code execution.</p>
+<p><code>FastAPI</code> <code>PostgreSQL</code> <code>AWS</code></p>
+<p><a href="https://github.com/JunaidSalim/reachai-backend">Explore the backend ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://giktransport.giki.edu.pk/"><img src="./assets/project-transport.svg" width="100%" alt="Illustration of a campus transport booking ticket" /></a>
+<h3>GIKI Transport</h3>
+<p>Campus reservations, scheduling, and integrated payments. Developed the backend and email notifications, reducing booking to under two minutes.</p>
+<p><code>Django</code> <code>PostgreSQL</code> <code>Graph API</code></p>
+<p><a href="https://giktransport.giki.edu.pk/">Visit the platform ↗</a></p>
+</td>
+</tr>
+</table>
 
-I graduated with a **BS in Computer Science from GIKI** in 2026, with a **3.70/4.00 CGPA**. My work spans robot navigation, multi-drone simulation, computer vision, and backend development.
+## Tools behind the work
 
-## Work
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/toolkit-mobile.svg" />
+  <img src="./assets/toolkit.svg" width="100%" alt="Core tools: C++, Python, ROS2, OpenCV, FastAPI, Django, Docker, and Linux" />
+</picture>
 
-- **Software Engineer · Dune AI** | Nov 2026 - Present · Islamabad, Pakistan<br>
-  Working on robotics and algorithms.
-- **Software Engineer · MHTechFusion** | Nov 2025 - Present · Freiburg, Germany · Remote<br>
-  Building computer vision applications for detection, motion prediction, license plate recognition, OCR, and demographic analysis. Managing model workflows and leading software delivery.
-- **Research Intern · University of Waterloo** | Aug 2026 - Oct 2026 · Waterloo, Canada<br>
-  Mitacs Globalink research on geospatial multi-UAV simulation, path planning, and urban last-mile delivery.
-- **Software Engineer Intern · Dune AI** | Jun 2025 - Aug 2025 · Lahore, Pakistan<br>
-  Contributed to a real-time RoboCup SSL simulator, robot path planning, a ROS2 controller, and cross-platform build and test automation.
+**Robotics → Computer vision → Backend engineering**
 
-## Selected projects
-
-**01 / UAV Path Planning Simulator** · Research project, source not public yet<br>
-A multi-drone simulation environment over a real Downtown Toronto map. Built during my Mitacs internship, with wind and energy modeling, uncertainty, online replanning, and a Qt visualizer.<br>
-*Python · NetworkX · OpenStreetMap · PySide6 · NumPy*
-
-**02 / [RoboCup SSL Simulator](https://github.com/robocup-pk/soccer)**<br>
-Real-time robot soccer simulation. Contributed RRT, RRTX, and A* navigation running above 40 Hz, plus a Python Qt controller using ROS2.<br>
-*C++ · OpenGL · ROS2 · CMake · Google Test*
-
-**03 / [REACH.AI](https://github.com/JunaidSalim/reachai-backend)**<br>
-An end-to-end recruitment platform connecting applicant tracking, AI video interviews, and technical assessments, with WebSocket interviews, vision-based proctoring, and sandboxed code execution.<br>
-*FastAPI · PostgreSQL · Redis · Docker · AWS · Terraform*
-
-**04 / [GIKI Transport System](https://giktransport.giki.edu.pk/)**<br>
-A campus transport platform for reservations, scheduling, and integrated payments. Developed the backend and automated email notifications, reducing booking to under two minutes.<br>
-*Django · PostgreSQL · Microsoft Graph API · Tailwind CSS*
-
-## Toolkit
+<details>
+<summary><strong>Explore the full toolkit</strong></summary>
 
 - **Robotics & algorithms:** ROS2, Qt/PySide6, OpenGL, NetworkX, A*, Dijkstra, RRT, RRTX.
 - **Computer vision & AI:** OpenCV, YOLO, FaceNet, TensorFlow, scikit-learn, LangChain, NumPy, Pandas.
@@ -53,17 +78,27 @@ A campus transport platform for reservations, scheduling, and integrated payment
 - **Languages:** Python, C++, C, SQL, Bash.
 - **Infrastructure & tools:** Linux, Git, Docker, AWS, Terraform, GitHub Actions, CMake, Google Test.
 
-## Public GitHub activity
+</details>
+
+## GitHub, visualized
 
 <a href="https://github.com/JunaidSalim?tab=overview">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=JunaidSalim&amp;hide_rank=true&amp;hide=stars,issues,contribs&amp;show_icons=true&amp;disable_animations=true&amp;custom_title=Public%20GitHub%20activity&amp;bg_color=00000000&amp;title_color=a6c998&amp;text_color=e7ede5&amp;icon_color=a6c998&amp;border_color=344036&amp;card_width=495" />
-    <img src="https://github-stats-extended.vercel.app/api?username=JunaidSalim&amp;hide_rank=true&amp;hide=stars,issues,contribs&amp;show_icons=true&amp;disable_animations=true&amp;custom_title=Public%20GitHub%20activity&amp;bg_color=00000000&amp;title_color=315e44&amp;text_color=202b25&amp;icon_color=315e44&amp;border_color=dce1d7&amp;card_width=495" width="495" alt="Public GitHub activity showing commits over the past year and pull requests. Open my profile for the full contribution history." />
-  </picture>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/activity-mobile.svg" />
+  <img src="./assets/activity.svg" width="100%" alt="Build rhythm: contributions, active days, busiest day, and weekly activity across the last 12 weeks" />
+</picture>
 </a>
 
-Public activity only. Private research work is not included.
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/code-mix-mobile.svg" />
+  <img src="./assets/code-mix.svg" width="100%" alt="Code fingerprint: a donut chart of language bytes across my owned, public, non-fork repositories" />
+</picture>
+
+<sub>Refreshed daily from the contribution calendar visible on my profile and public repository language data. Code mix describes public code, not proficiency.</sub>
 
 ---
 
-[Explore my portfolio](https://junaidsalim.github.io/) · [Upwork](https://www.upwork.com/freelancers/~01205cd28478cb9efe) · [Fiverr](https://www.fiverr.com/s/Ld8ZwQY)
+<p align="center">
+  <strong>Have a project, research idea, or role in mind?</strong><br>
+  <a href="mailto:junaidsaleem986@gmail.com">Let’s talk</a> · <a href="https://junaidsalim.github.io/">Portfolio</a> · <a href="https://www.upwork.com/freelancers/~01205cd28478cb9efe">Upwork</a> · <a href="https://www.fiverr.com/s/Ld8ZwQY">Fiverr</a>
+</p>
