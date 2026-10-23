@@ -5,7 +5,7 @@
   "period_end": "2026-10-23",
   "start_label": "01 Aug 2026",
   "end_label": "23 Oct 2026",
-  "total": 124,
+  "total": 125,
   "active_days": 40,
   "peak": 13,
   "weekly": [
@@ -20,14 +20,14 @@
     12,
     15,
     14,
-    13
+    14
   ],
   "repository_count": 35,
   "languages_all": {
     "Jupyter Notebook": 17486844,
     "C": 7930581,
     "C++": 5968133,
-    "Python": 1823003,
+    "Python": 1833403,
     "JavaScript": 774204,
     "CSS": 341272,
     "Objective-C": 332888,
@@ -47,27 +47,27 @@
     {
       "name": "Jupyter Notebook",
       "bytes": 17486844,
-      "share": 0.4979820114888012
+      "share": 0.49783456969380324
     },
     {
       "name": "C",
       "bytes": 7930581,
-      "share": 0.22584330704013078
+      "share": 0.22577643967984456
     },
     {
       "name": "C++",
       "bytes": 5968133,
-      "share": 0.1699576479422298
+      "share": 0.16990732712720413
     },
     {
       "name": "Python",
-      "bytes": 1823003,
-      "share": 0.051914610829153565
+      "bytes": 1833403,
+      "share": 0.05219531858237701
     },
     {
       "name": "Other",
       "bytes": 1906852,
-      "share": 0.05430242269968461
+      "share": 0.054286344916771034
     }
   ]
 }
