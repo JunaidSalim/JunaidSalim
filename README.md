@@ -1,7 +1,10 @@
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/header-mobile.svg" />
-  <img src="./assets/header.svg" width="100%" alt="Junaid Saleem. Software Engineer and Researcher in Islamabad, Pakistan. Robotics, computer vision, and backend engineering." />
-</picture>
+<div align="center">
+
+# Junaid Saleem
+
+**Software Engineer & Researcher**
+
+`Robotics` · `Computer vision` · `Backend engineering`
 
 <p align="center">
   <a href="https://junaidsalim.github.io/"><img src="https://img.shields.io/badge/Portfolio-172b32?style=for-the-badge&amp;logo=githubpages&amp;logoColor=80e1b4" alt="Portfolio" /></a>
@@ -10,11 +13,15 @@
   <a href="https://drive.google.com/file/d/1nGhUug4Alh1dNHMXJece6IS-xdeEXDBm/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-315e44?style=for-the-badge" alt="Resume" /></a>
 </p>
 
-I build software for **robots that move, systems that see, and the backends behind them.** My work spans robot navigation, multi-drone simulation, computer vision, and backend engineering.
+</div>
+
+---
+
+I am a Software Engineer and Researcher based in Islamabad, Pakistan. My work focuses on robotics, computer vision, and backend engineering, including robot navigation and multi-UAV simulation.
 
 **BS Computer Science, GIKI · Class of 2026 · 3.70/4.00 CGPA**
 
-## Where I build
+## Experience
 
 | | Role & focus |
 | :--- | :--- |
@@ -23,7 +30,7 @@ I build software for **robots that move, systems that see, and the backends behi
 | **University of Waterloo**<br>Aug - Oct 2026 · Canada | **Mitacs Globalink Research Intern**<br>Geospatial multi-UAV simulation, path planning, and last-mile delivery research. |
 | **Dune AI**<br>Jun - Aug 2025 · Lahore | **Software Engineer Intern**<br>RoboCup SSL simulation, robot navigation, and build/test automation. |
 
-## Selected builds
+## Selected projects
 
 <table>
 <tr>
@@ -60,41 +67,13 @@ I build software for **robots that move, systems that see, and the backends behi
 </tr>
 </table>
 
-## Tools behind the work
-
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/toolkit-mobile.svg" />
-  <img src="./assets/toolkit.svg" width="100%" alt="Core tools: C++, Python, ROS2, OpenCV, FastAPI, Django, Docker, and Linux" />
-</picture>
-
-**Robotics → Computer vision → Backend engineering**
-
-<details>
-<summary><strong>Explore the full toolkit</strong></summary>
+## Technical skills
 
 - **Robotics & algorithms:** ROS2, Qt/PySide6, OpenGL, NetworkX, A*, Dijkstra, RRT, RRTX.
 - **Computer vision & AI:** OpenCV, YOLO, FaceNet, TensorFlow, scikit-learn, LangChain, NumPy, Pandas.
 - **Backend & data:** FastAPI, Django, PostgreSQL, Redis, REST APIs, WebSocket, microservices.
 - **Languages:** Python, C++, C, SQL, Bash.
 - **Infrastructure & tools:** Linux, Git, Docker, AWS, Terraform, GitHub Actions, CMake, Google Test.
-
-</details>
-
-## GitHub, visualized
-
-<a href="https://github.com/JunaidSalim?tab=overview">
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/activity-mobile.svg" />
-  <img src="./assets/activity.svg" width="100%" alt="Build rhythm: contributions, active days, busiest day, and weekly activity across the last 12 weeks" />
-</picture>
-</a>
-
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/code-mix-mobile.svg" />
-  <img src="./assets/code-mix.svg" width="100%" alt="Code fingerprint: a donut chart of language bytes across my owned, public, non-fork repositories" />
-</picture>
-
-<sub>Refreshed daily from the contribution calendar visible on my profile and public repository language data. Code mix describes public code, not proficiency.</sub>
 
 ---
 
