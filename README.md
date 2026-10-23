@@ -1,22 +1,69 @@
-# 💫 About Me:
-👋 Hi there, I'm Junaid Saleem  <br><br>🎓 Computer Science Senior @ GIKI  <br>🤖 Specializing in Robotics, AI, and Backend Development  <br>🚀 Currently working on RoboCup SSL Robot & Simulator and Final Year Project — REACH-AI  <br>💻 Learning FastAPI, OpenCV and ROS <br>📫 Connect with me through the social links below  <br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-saleem/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:junaidsaleem986@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
-# 📊 GitHub Stats:
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=JunaidSalim&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidSalim&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170"/>
+# Junaid Saleem
 
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=JunaidSalim&theme=dark&hide_border=false" height="170"/>
+**Software Engineer & Researcher**
+
+`Robotics` · `Computer vision` · `Backend engineering`
+
+[Portfolio](https://junaidsalim.github.io/) · [LinkedIn](https://www.linkedin.com/in/junaid-saleem/) · [Email](mailto:junaidsaleem986@gmail.com) · [Resume](https://drive.google.com/file/d/1nGhUug4Alh1dNHMXJece6IS-xdeEXDBm/view?usp=sharing)
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+I work on how robots move, how software understands images, and the systems behind useful applications. Based in **Islamabad, Pakistan**.
+
+I graduated with a **BS in Computer Science from GIKI** in 2026, with a **3.70/4.00 CGPA**. My work spans robot navigation, multi-drone simulation, computer vision, and backend development.
+
+## Work
+
+- **Software Engineer · Dune AI** | Nov 2026 - Present · Islamabad, Pakistan<br>
+  Working on robotics and algorithms.
+- **Software Engineer · MHTechFusion** | Nov 2025 - Present · Freiburg, Germany · Remote<br>
+  Building computer vision applications for detection, motion prediction, license plate recognition, OCR, and demographic analysis. Managing model workflows and leading software delivery.
+- **Research Intern · University of Waterloo** | Aug 2026 - Oct 2026 · Waterloo, Canada<br>
+  Mitacs Globalink research on geospatial multi-UAV simulation, path planning, and urban last-mile delivery.
+- **Software Engineer Intern · Dune AI** | Jun 2025 - Aug 2025 · Lahore, Pakistan<br>
+  Contributed to a real-time RoboCup SSL simulator, robot path planning, a ROS2 controller, and cross-platform build and test automation.
+
+## Selected projects
+
+**01 / UAV Path Planning Simulator** · Research project, source not public yet<br>
+A multi-drone simulation environment over a real Downtown Toronto map. Built during my Mitacs internship, with wind and energy modeling, uncertainty, online replanning, and a Qt visualizer.<br>
+*Python · NetworkX · OpenStreetMap · PySide6 · NumPy*
+
+**02 / [RoboCup SSL Simulator](https://github.com/robocup-pk/soccer)**<br>
+Real-time robot soccer simulation. Contributed RRT, RRTX, and A* navigation running above 40 Hz, plus a Python Qt controller using ROS2.<br>
+*C++ · OpenGL · ROS2 · CMake · Google Test*
+
+**03 / [REACH.AI](https://github.com/JunaidSalim/reachai-backend)**<br>
+An end-to-end recruitment platform connecting applicant tracking, AI video interviews, and technical assessments, with WebSocket interviews, vision-based proctoring, and sandboxed code execution.<br>
+*FastAPI · PostgreSQL · Redis · Docker · AWS · Terraform*
+
+**04 / [GIKI Transport System](https://giktransport.giki.edu.pk/)**<br>
+A campus transport platform for reservations, scheduling, and integrated payments. Developed the backend and automated email notifications, reducing booking to under two minutes.<br>
+*Django · PostgreSQL · Microsoft Graph API · Tailwind CSS*
+
+## Toolkit
+
+- **Robotics & algorithms:** ROS2, Qt/PySide6, OpenGL, NetworkX, A*, Dijkstra, RRT, RRTX.
+- **Computer vision & AI:** OpenCV, YOLO, FaceNet, TensorFlow, scikit-learn, LangChain, NumPy, Pandas.
+- **Backend & data:** FastAPI, Django, PostgreSQL, Redis, REST APIs, WebSocket, microservices.
+- **Languages:** Python, C++, C, SQL, Bash.
+- **Infrastructure & tools:** Linux, Git, Docker, AWS, Terraform, GitHub Actions, CMake, Google Test.
+
+## Public GitHub activity
+
+<a href="https://github.com/JunaidSalim?tab=overview">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=JunaidSalim&amp;hide_rank=true&amp;hide=stars,issues,contribs&amp;show_icons=true&amp;disable_animations=true&amp;custom_title=Public%20GitHub%20activity&amp;bg_color=00000000&amp;title_color=a6c998&amp;text_color=e7ede5&amp;icon_color=a6c998&amp;border_color=344036&amp;card_width=495" />
+    <img src="https://github-stats-extended.vercel.app/api?username=JunaidSalim&amp;hide_rank=true&amp;hide=stars,issues,contribs&amp;show_icons=true&amp;disable_animations=true&amp;custom_title=Public%20GitHub%20activity&amp;bg_color=00000000&amp;title_color=315e44&amp;text_color=202b25&amp;icon_color=315e44&amp;border_color=dce1d7&amp;card_width=495" width="495" alt="Public GitHub activity showing commits over the past year and pull requests. Open my profile for the full contribution history." />
+  </picture>
+</a>
+
+Public activity only. Private research work is not included.
+
+---
+
+[Explore my portfolio](https://junaidsalim.github.io/) · [Upwork](https://www.upwork.com/freelancers/~01205cd28478cb9efe) · [Fiverr](https://www.fiverr.com/s/Ld8ZwQY)
